@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="c"
+                 name="Chroma"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="starter-topic.md">
+        <toc-element topic="СРП.md">
+            <toc-element topic="Общие-Рабочие-Процедуры-Отдела-Снабжения.md"/>
+            <toc-element topic="СРП-РнД.md">
+                <toc-element topic="Научный-Руководитель.md">
+                    <toc-element topic="Робототехник.md">
+                        <toc-element topic="Ученый.md">
+                            <toc-element topic="Научный-Ассистент.md"/>
+                        </toc-element>
+                    </toc-element>
+                </toc-element>
+            </toc-element>
+        </toc-element>
+    </toc-element>
+</instance-profile>
