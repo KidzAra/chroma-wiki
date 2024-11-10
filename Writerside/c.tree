@@ -12,8 +12,9 @@
             <toc-element topic="Общие-процедуры-инженерного-отдела.md">
                 <toc-element topic="Старший-Инженер.md">
                     <toc-element topic="Атмосферный-техник.md">
-                        <toc-element topic="Инженер.md"/>
-                        <toc-element topic="Технический-Ассистент.md"/>
+                        <toc-element topic="Инженер.md">
+                            <toc-element topic="Технический-Ассистент.md"/>
+                        </toc-element>
                     </toc-element>
                 </toc-element>
             </toc-element>
