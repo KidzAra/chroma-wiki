@@ -8,7 +8,35 @@
 
     <toc-element topic="starter-topic.md">
         <toc-element topic="СРП.md">
-            <toc-element topic="Общие-Рабочие-Процедуры-Отдела-Снабжения.md"/>
+            <toc-element topic="Общее-срп-службы-безопасности.md"/>
+            <toc-element topic="Общие-процедуры-инженерного-отдела.md">
+                <toc-element topic="Старший-Инженер.md">
+                    <toc-element topic="Атмосферный-техник.md">
+                        <toc-element topic="Инженер.md"/>
+                        <toc-element topic="Технический-Ассистент.md"/>
+                    </toc-element>
+                </toc-element>
+            </toc-element>
+            <toc-element topic="Общие-Рабочие-Процедуры-Медицинского-отдела.md">
+                <toc-element topic="Главный-Врач.md">
+                    <toc-element topic="Химик.md">
+                        <toc-element topic="Парамедик.md">
+                            <toc-element topic="Врач.md">
+                                <toc-element topic="Психолог.md">
+                                    <toc-element topic="Интерн.md"/>
+                                </toc-element>
+                            </toc-element>
+                        </toc-element>
+                    </toc-element>
+                </toc-element>
+            </toc-element>
+            <toc-element topic="Общие-Рабочие-Процедуры-Отдела-Снабжения.md">
+                <toc-element topic="Квартермейстер.md">
+                    <toc-element topic="Утилизатор.md">
+                        <toc-element topic="Грузчик.md"/>
+                    </toc-element>
+                </toc-element>
+            </toc-element>
             <toc-element topic="СРП-РнД.md">
                 <toc-element topic="Научный-Руководитель.md">
                     <toc-element topic="Робототехник.md">
